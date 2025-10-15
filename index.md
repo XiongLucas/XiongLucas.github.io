@@ -7,11 +7,11 @@ I am pursuing data analytics because I'm curious about how information can impro
 Short term goals:
 I would like to compete more at singing competitions,
 collect more pokemon cards, and
-I would like to finish my first semester at WTC
+I would like to finish my first semester at WTC.
 
 Long term goals:
 I want to win more than one singing competition,
 to graduate, and
-a nicer car
+a nicer car.
 
 [Lucas_Xiong_Resume_101$.docx](https://github.com/user-attachments/files/22930595/Lucas_Xiong_Resume_101.docx)
