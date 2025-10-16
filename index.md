@@ -15,3 +15,4 @@ to graduate, and
 a nicer car.
 
 [Lucas_Xiong_Resume_101$.docx](https://github.com/user-attachments/files/22930595/Lucas_Xiong_Resume_101.docx)
+[it explorations](https://xionglucas.github.io/it-explorations/)
