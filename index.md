@@ -14,6 +14,6 @@ I want to win more than one singing competition,
 to graduate, and
 a nicer car.
 
-[Lucas_Xiong_Resume_101$.docx](https://github.com/user-attachments/files/22930595/Lucas_Xiong_Resume_101.docx)
+[Lucas's Resume](https://github.com/user-attachments/files/22930595/Lucas_Xiong_Resume_101.docx)
 
-[it explorations](https://xionglucas.github.io/it-explorations/)
+[IT-Explorations](https://xionglucas.github.io/it-explorations/)
