@@ -17,3 +17,6 @@ a nicer car.
 [Lucas's Resume](https://github.com/user-attachments/files/22930595/Lucas_Xiong_Resume_101.docx)
 
 [IT-Explorations](https://xionglucas.github.io/it-explorations/)
+
+[Computer Applications for Business](https://xionglucas.github.io/computer-applications-for-business/) 
+
